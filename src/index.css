@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: content-box;
+}
+
+:root {
+  --text: white;
+  --background-color: #525252;
+}
+
+body {
+  color: var(--text);
+  background-color: var(--background-color);
+}
